@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "The Code Factory of Retin"
-description: "안녕하세요 레틴의 코드 공장입니다. "
+description: "반퍼반개 레틴의 코드 공장입니다. "
 baseurl:
 url: https://retinan.github.io
 logo: # path of site logo, e.g. "/images/logo.png"
